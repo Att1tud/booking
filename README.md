@@ -1,8 +1,8 @@
-# Att1tud Booking – Simple Starter
+# Att1tud Booking – Simple JS Starter
 
-> Generated 2025-08-08T20:48:51.946973Z
+> Generated 2025-08-08T21:08:25.765676Z
 
-Nessuna configurazione: deploy immediato su Vercel. Mostra UI mock nero/argento.
+Nessuna configurazione, nessun TypeScript. Deploy immediato su Vercel.
 
 **Sviluppo locale**
 ```
